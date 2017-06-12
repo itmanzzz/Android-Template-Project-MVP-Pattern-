@@ -1,4 +1,4 @@
-# Awesome README [![Awesome](https://res.cloudinary.com/crunchbase-production/image/upload/v1410012885/pffdgtptpqmsg0h3cdgm.png)](https://github.com/l0ptruong/Android-Template-Project-MVP-Pattern-)
+# Awesome README [![Awesome](https://maxcdn.icons8.com/Share/icon/color/Messaging//cool1600.png)](https://github.com/l0ptruong/Android-Template-Project-MVP-Pattern-)
 
 Created by Johnny
 ## License
